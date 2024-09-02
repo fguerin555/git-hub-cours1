@@ -1,6 +1,12 @@
 body {
-  background: grey;
+  background: rgba(227, 214, 214, 0.338);
 }
 p {
-  color: red;
+  color: rgb(135, 45, 45);
+}
+section h2 {
+  color: rgb(164, 230, 164);
+}
+section p {
+  color: rgb(195, 195, 138);
 }
